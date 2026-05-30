@@ -1,6 +1,6 @@
 # li-demo
 
-Li package li-demo
+*Li language demos — HPC kernels, scientific computing examples, and AI agent samples (lip).*
 
 ## Build
 
@@ -19,7 +19,7 @@ From the monorepo root, ensure `lic` is built: `./scripts/build.sh`.
 | Handbook | [li-demo](https://li-langverse.github.io/li-language/ecosystem/li-demo/) (after Pages deploy) |
 | Governance | [Ecosystem governance](https://li-langverse.github.io/li-language/ecosystem/governance/) |
 
-See `PUBLISH.md` and `docs/traceability.md`.
+See `PUBLISH.md`, [docs/handbook.md](docs/handbook.md), and [live handbook](https://li-langverse.github.io/li-demo/).
 
 ## License
 
