@@ -20,6 +20,10 @@ From the monorepo root, ensure `lic` is built: `./scripts/build.sh`.
 
 See `PUBLISH.md`, [docs/handbook.md](docs/handbook.md), and [live handbook](https://li-langverse.github.io/li-demo/).
 
+## Agent smoke (automated)
+
+Smoke test — li-cursor-agents live run; safe to revert.
+
 ## License
 
 Apache-2.0 OR MIT
