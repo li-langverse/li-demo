@@ -1,6 +1,6 @@
 # li-demo
 
-Li package li-demo
+*Li language demos — HPC kernels, scientific computing examples, and AI agent samples (lip).*
 
 ## Build
 
