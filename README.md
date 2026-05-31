@@ -1,6 +1,6 @@
-# li-demo
+﻿# li-demo
 
-*Li language demos — HPC kernels, scientific computing examples, and AI agent samples (lip).*
+*Li language demos â€” HPC kernels, scientific computing examples, and AI agent samples (lip).*
 
 ## Build
 
@@ -22,8 +22,8 @@ See `PUBLISH.md`, [docs/handbook.md](docs/handbook.md), and [live handbook](http
 
 ## Agent smoke (automated)
 
-Smoke test — li-cursor-agents live run; safe to revert.
+Smoke test â€” li-cursor-agents live run; safe to revert.
 
 ## License
 
-Apache-2.0 OR MIT
+GPL-3.0-or-later OR MIT
